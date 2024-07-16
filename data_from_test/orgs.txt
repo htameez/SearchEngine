@@ -1,0 +1,1 @@
+google , 0006 0.072 ; kiva , 0006 0.553 ; ibm , 0005 0.391 , 0006 0.501 ; save-the-children , 0005 0.102 ; yahoo , 0005 0.435 ; walmart , 0005 0.588 , 0006 0.697 ; salvation-army , 0005 0.677 ; 

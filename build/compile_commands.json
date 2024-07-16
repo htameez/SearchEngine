@@ -1,0 +1,146 @@
+[
+{
+  "directory": "/Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -Wall -Wextra -pedantic -o CMakeFiles/tests_tree.dir/test_AVLTree.cpp.o -c /Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/test_AVLTree.cpp",
+  "file": "/Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/test_AVLTree.cpp",
+  "output": "CMakeFiles/tests_tree.dir/test_AVLTree.cpp.o"
+},
+{
+  "directory": "/Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -Wall -Wextra -pedantic -o CMakeFiles/tests_indexhandler.dir/test_IndexHandler.cpp.o -c /Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/test_IndexHandler.cpp",
+  "file": "/Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/test_IndexHandler.cpp",
+  "output": "CMakeFiles/tests_indexhandler.dir/test_IndexHandler.cpp.o"
+},
+{
+  "directory": "/Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -Wall -Wextra -pedantic -o CMakeFiles/tests_indexhandler.dir/IndexHandler.cpp.o -c /Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/IndexHandler.cpp",
+  "file": "/Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/IndexHandler.cpp",
+  "output": "CMakeFiles/tests_indexhandler.dir/IndexHandler.cpp.o"
+},
+{
+  "directory": "/Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -Wall -Wextra -pedantic -o CMakeFiles/tests_queryProcessor.dir/test_QueryProcessor.cpp.o -c /Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/test_QueryProcessor.cpp",
+  "file": "/Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/test_QueryProcessor.cpp",
+  "output": "CMakeFiles/tests_queryProcessor.dir/test_QueryProcessor.cpp.o"
+},
+{
+  "directory": "/Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -Wall -Wextra -pedantic -o CMakeFiles/tests_queryProcessor.dir/QueryProcessor.cpp.o -c /Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/QueryProcessor.cpp",
+  "file": "/Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/QueryProcessor.cpp",
+  "output": "CMakeFiles/tests_queryProcessor.dir/QueryProcessor.cpp.o"
+},
+{
+  "directory": "/Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -Wall -Wextra -pedantic -o CMakeFiles/tests_queryProcessor.dir/DocumentParser.cpp.o -c /Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/DocumentParser.cpp",
+  "file": "/Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/DocumentParser.cpp",
+  "output": "CMakeFiles/tests_queryProcessor.dir/DocumentParser.cpp.o"
+},
+{
+  "directory": "/Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -Wall -Wextra -pedantic -o CMakeFiles/tests_queryProcessor.dir/IndexHandler.cpp.o -c /Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/IndexHandler.cpp",
+  "file": "/Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/IndexHandler.cpp",
+  "output": "CMakeFiles/tests_queryProcessor.dir/IndexHandler.cpp.o"
+},
+{
+  "directory": "/Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -Wall -Wextra -pedantic -o CMakeFiles/tests_queryProcessor.dir/SearchEngine.cpp.o -c /Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/SearchEngine.cpp",
+  "file": "/Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/SearchEngine.cpp",
+  "output": "CMakeFiles/tests_queryProcessor.dir/SearchEngine.cpp.o"
+},
+{
+  "directory": "/Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -Wall -Wextra -pedantic -o CMakeFiles/tests_queryProcessor.dir/StringCleaner.cpp.o -c /Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/StringCleaner.cpp",
+  "file": "/Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/StringCleaner.cpp",
+  "output": "CMakeFiles/tests_queryProcessor.dir/StringCleaner.cpp.o"
+},
+{
+  "directory": "/Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -Wall -Wextra -pedantic -o CMakeFiles/tests_queryProcessor.dir/stemmer/porter2_stemmer.cpp.o -c /Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/stemmer/porter2_stemmer.cpp",
+  "file": "/Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/stemmer/porter2_stemmer.cpp",
+  "output": "CMakeFiles/tests_queryProcessor.dir/stemmer/porter2_stemmer.cpp.o"
+},
+{
+  "directory": "/Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/rapidjson -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -Wall -Wextra -pedantic -o CMakeFiles/rapidJSONExample.dir/rapidJSONExample.cpp.o -c /Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/rapidJSONExample.cpp",
+  "file": "/Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/rapidJSONExample.cpp",
+  "output": "CMakeFiles/rapidJSONExample.dir/rapidJSONExample.cpp.o"
+},
+{
+  "directory": "/Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/rapidjson -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -Wall -Wextra -pedantic -o CMakeFiles/rapidJSONExample.dir/StringCleaner.cpp.o -c /Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/StringCleaner.cpp",
+  "file": "/Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/StringCleaner.cpp",
+  "output": "CMakeFiles/rapidJSONExample.dir/StringCleaner.cpp.o"
+},
+{
+  "directory": "/Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/rapidjson -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -Wall -Wextra -pedantic -o CMakeFiles/rapidJSONExample.dir/stemmer/porter2_stemmer.cpp.o -c /Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/stemmer/porter2_stemmer.cpp",
+  "file": "/Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/stemmer/porter2_stemmer.cpp",
+  "output": "CMakeFiles/rapidJSONExample.dir/stemmer/porter2_stemmer.cpp.o"
+},
+{
+  "directory": "/Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/rapidjson -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -Wall -Wextra -pedantic -o CMakeFiles/rapidJSONExample.dir/DocumentParser.cpp.o -c /Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/DocumentParser.cpp",
+  "file": "/Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/DocumentParser.cpp",
+  "output": "CMakeFiles/rapidJSONExample.dir/DocumentParser.cpp.o"
+},
+{
+  "directory": "/Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/rapidjson -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -Wall -Wextra -pedantic -o CMakeFiles/rapidJSONExample.dir/IndexHandler.cpp.o -c /Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/IndexHandler.cpp",
+  "file": "/Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/IndexHandler.cpp",
+  "output": "CMakeFiles/rapidJSONExample.dir/IndexHandler.cpp.o"
+},
+{
+  "directory": "/Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/rapidjson -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -Wall -Wextra -pedantic -o CMakeFiles/rapidJSONExample.dir/QueryProcessor.cpp.o -c /Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/QueryProcessor.cpp",
+  "file": "/Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/QueryProcessor.cpp",
+  "output": "CMakeFiles/rapidJSONExample.dir/QueryProcessor.cpp.o"
+},
+{
+  "directory": "/Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/rapidjson -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -Wall -Wextra -pedantic -o CMakeFiles/rapidJSONExample.dir/SearchEngine.cpp.o -c /Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/SearchEngine.cpp",
+  "file": "/Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/SearchEngine.cpp",
+  "output": "CMakeFiles/rapidJSONExample.dir/SearchEngine.cpp.o"
+},
+{
+  "directory": "/Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -Wall -Wextra -pedantic -o CMakeFiles/supersearch.dir/main.cpp.o -c /Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/main.cpp",
+  "file": "/Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/main.cpp",
+  "output": "CMakeFiles/supersearch.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -Wall -Wextra -pedantic -o CMakeFiles/supersearch.dir/StringCleaner.cpp.o -c /Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/StringCleaner.cpp",
+  "file": "/Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/StringCleaner.cpp",
+  "output": "CMakeFiles/supersearch.dir/StringCleaner.cpp.o"
+},
+{
+  "directory": "/Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -Wall -Wextra -pedantic -o CMakeFiles/supersearch.dir/stemmer/porter2_stemmer.cpp.o -c /Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/stemmer/porter2_stemmer.cpp",
+  "file": "/Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/stemmer/porter2_stemmer.cpp",
+  "output": "CMakeFiles/supersearch.dir/stemmer/porter2_stemmer.cpp.o"
+},
+{
+  "directory": "/Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -Wall -Wextra -pedantic -o CMakeFiles/supersearch.dir/DocumentParser.cpp.o -c /Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/DocumentParser.cpp",
+  "file": "/Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/DocumentParser.cpp",
+  "output": "CMakeFiles/supersearch.dir/DocumentParser.cpp.o"
+},
+{
+  "directory": "/Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -Wall -Wextra -pedantic -o CMakeFiles/supersearch.dir/IndexHandler.cpp.o -c /Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/IndexHandler.cpp",
+  "file": "/Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/IndexHandler.cpp",
+  "output": "CMakeFiles/supersearch.dir/IndexHandler.cpp.o"
+},
+{
+  "directory": "/Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -Wall -Wextra -pedantic -o CMakeFiles/supersearch.dir/QueryProcessor.cpp.o -c /Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/QueryProcessor.cpp",
+  "file": "/Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/QueryProcessor.cpp",
+  "output": "CMakeFiles/supersearch.dir/QueryProcessor.cpp.o"
+},
+{
+  "directory": "/Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -Wall -Wextra -pedantic -o CMakeFiles/supersearch.dir/SearchEngine.cpp.o -c /Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/SearchEngine.cpp",
+  "file": "/Users/hamnatameez/SearchEngine/assignment-4-search-engine-emma-s-hamna-t-zareenah-m/SearchEngine.cpp",
+  "output": "CMakeFiles/supersearch.dir/SearchEngine.cpp.o"
+}
+]
